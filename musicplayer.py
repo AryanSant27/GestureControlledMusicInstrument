@@ -11,16 +11,16 @@ pygame.mixer.init()
 # Define the sound mappings for different instruments
 instruments = {
     "Drums": {
-        1: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_cr78-Bongo High.mp3",
-        2: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_crash.mp3",
-        3: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_snare.mp3",
-        4: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_tom-1.mp3",
-        5: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_tom-2.mp3",
-        6: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_tom-3.mp3",
-        7: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_cr78-Cymbal.mp3",
-        8: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_cr78-Guiro 1.mp3",
-        9: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_tempest-HiHat Metal.mp3",
-        10: "E:\LangChain Project\GestureControlledMusicPlayer\sounds\sounds_cr78-Bongo High.mp3"
+        1: "E:\LangChain Project\sounds\sounds_cr78-Bongo High.mp3",
+        2: "E:\LangChain Project\sounds\sounds_crash.mp3",
+        3: "E:\LangChain Project\sounds\sounds_snare.mp3",
+        4: "E:\LangChain Project\sounds\sounds_tom-1.mp3",
+        5: "E:\LangChain Project\sounds\sounds_tom-2.mp3",
+        6: "E:\LangChain Project\sounds\sounds_tom-3.mp3",
+        7: "E:\LangChain Project\sounds\sounds_cr78-Cymbal.mp3",
+        8: "E:\LangChain Project\sounds\sounds_cr78-Guiro 1.mp3",
+        9: "E:\LangChain Project\sounds\sounds_tempest-HiHat Metal.mp3",
+        10: "E:\LangChain Project\sounds\sounds_cr78-Bongo High.mp3"
     },
     "Guitar": {
         1: "E:\LangChain Project\sounds\guitar_string_1.mp3",
