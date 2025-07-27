@@ -1,0 +1,24 @@
+G3 - thumb
+A2 - index
+A3 - thumb index
+B3 - thumb middle
+B2 - index middle
+C4 - thumb index middle
+D3 - ring
+C#3 - thumb ring
+C3 - index ring
+D#3 - thumb index ring
+D#4 - middle ring
+E2 - thumb index middle ring
+E4 - pinky
+F#2 - thumb pinky
+F#3 - index pinky
+F2 - thumb index pinky
+F3 - middle pinky
+G#2 - thumb middle pinky
+G#3 - index middle pinky
+G2 - thumb index middle pinky
+C#4 - ring pinky
+D4 - thumb middle ring pinky
+A#3 - index middle ring
+A#2 - middle

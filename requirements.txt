@@ -1,0 +1,6 @@
+mediapipe
+streamlit
+cv2
+pygame
+pillow
+numpy
